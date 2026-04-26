@@ -13,7 +13,7 @@ syn keyword flyKeyword import new
 syn keyword flyKeyword while if else
 syn keyword flyKeyword for in
 syn keyword flyKeyword return
-syn keyword flyKeyword static record func public private
+syn keyword flyKeyword use static record func public private
 syn keyword flySelf self
 syn keyword flyFunction fn nextgroup=flyFunctionName skipwhite skipempty
 
